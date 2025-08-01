@@ -1,4 +1,3 @@
-// Import the AI service to handle Groq API communication
 import getResponse from "../services/ai.services.js";
 
 // Controller function to handle AI response requests
